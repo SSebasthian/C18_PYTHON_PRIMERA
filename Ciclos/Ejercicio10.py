@@ -5,7 +5,7 @@ print("")
 try: 
     numero= int(input("Ingresa un numero positivo: "))
     for i in range(numero):
-        for j in range(i+1):
+        for j in range(i-1):
             print("*", end="")
         print("")
     

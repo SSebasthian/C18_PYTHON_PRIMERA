@@ -1,7 +1,7 @@
 import time
 
 print("")
-print ("8. Hacer un conteo regresivo desde hora, minuto y segundos")
+print ("8. Hacer un conteo desde hora, minuto y segundos")
 print("")
 
 try: 
