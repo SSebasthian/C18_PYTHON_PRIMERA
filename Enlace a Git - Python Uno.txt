@@ -1,0 +1,13 @@
+Buen dia Instructor:
+
+Comparto ejercicios de:
+
+Casos de Uso Laboral
+Ciclos
+Decisiones
+
+Cada uno en su respectiva Carpeta.
+Muchas gracias de antemanoo, se aprendio bastante cacharreandole a los ejercicios.
+
+
+https://github.com/SSebasthian/C18_PYTHON_PRIMERA
